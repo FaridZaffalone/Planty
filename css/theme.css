@@ -1,0 +1,14 @@
+/*  CSS PLANTY */
+
+.title-planty {
+
+    top: 150px;
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    display: flex;
+    text-transform: uppercase;
+
+}
